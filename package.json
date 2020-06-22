@@ -1,5 +1,6 @@
 {
   "private": true,
+  "version": "1.4.7",
   "name": "@bottender/workspace",
   "description": "A framework for building conversational user interfaces.",
   "license": "MIT",
